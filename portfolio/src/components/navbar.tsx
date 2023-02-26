@@ -4,7 +4,6 @@ export default function Navbar() {
       <div className="m-2 text-xl">Home</div>
       <div className="m-2 text-xl">Experience</div>
       <div className="m-2 text-xl">Projects</div>
-      <div className="m-2 text-xl">Abt</div>
     </div>
   );
 }
